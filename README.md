@@ -1,5 +1,5 @@
 # Inventory Management System with Stock Prediction Using XGBoost
-
+<img width="1346" height="639" alt="Cuplikan layar 2026-07-05 085324" src="https://github.com/user-attachments/assets/6a7824f8-d7d4-4e1b-8d4b-0c3938033d65" />
 ## 📌 Deskripsi
 
 Inventory Management System merupakan aplikasi berbasis web yang dikembangkan untuk membantu UMKM dalam mengelola persediaan barang secara efektif. Sistem ini dibangun menggunakan framework Laravel dengan database MySQL dan dilengkapi fitur Artificial Intelligence menggunakan algoritma XGBoost untuk memprediksi kebutuhan stok berdasarkan histori transaksi keluar.
@@ -335,5 +335,4 @@ Beberapa fitur yang dapat dikembangkan:
 
 Sistem ini dikembangkan sebagai bagian dari penelitian skripsi:
 
-**Rancang Bangun Sistem Inventori Berbasis Web untuk Prediksi Stok pada UMKM Menggunakan XGBoost**<img width="1346" height="639" alt="Cuplikan layar 2026-07-05 085324" src="https://github.com/user-attachments/assets/6a7824f8-d7d4-4e1b-8d4b-0c3938033d65" />
-<img width="1346" height="639" alt="Cuplikan layar 2026-07-05 085324" src="https://github.com/user-attachments/assets/1a94dc75-2f7b-4add-a94d-19098e438a84" />
+**Rancang Bangun Sistem Inventori Berbasis Web untuk Prediksi Stok pada UMKM Menggunakan XGBoost**
