@@ -11,10 +11,10 @@ Prediksi yang dihasilkan bukan berupa stok akhir, melainkan jumlah barang yang d
 
 # Teknologi
 
-- PHP 8.x
+- PHP 8.4
 - Laravel 9
 - MySQL
-- Python 3.x
+- Python 3.1
 - XGBoost
 - Pandas
 - Scikit-Learn
