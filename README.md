@@ -40,6 +40,11 @@ Prediksi yang dihasilkan bukan berupa stok akhir, melainkan jumlah barang yang d
 Admin bertugas mengelola seluruh data master serta menjalankan proses prediksi menggunakan model XGBoost.
 
 ---
+## Akun  Admin
+```
+email : admin@gmail.com
+password : password
+```
 
 ## Customer
 
@@ -65,6 +70,7 @@ Customer hanya dapat melihat dan mengelola transaksi miliknya sendiri.
 - Menjalankan proses prediksi AI
 - Melihat laporan
 - Melihat seluruh hasil prediksi
+
 
 ## Customer
 
@@ -331,6 +337,7 @@ Beberapa fitur yang dapat dikembangkan:
 - API Mobile
 
 ---
+
 
 # Lisensi
 
